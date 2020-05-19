@@ -1,2 +1,2 @@
 # Airline-Database
-Interacts with database to perform functions an airline would use
+Interacts with a database to perform functions an airline would use
