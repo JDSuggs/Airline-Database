@@ -8,7 +8,7 @@ Allows users to perform customer, reporting, and administrative functions on an 
 * Find cheap flights
 
 ## Reporting Functions
-* Print flight rosters, schedules, performance reports, or view history
+* Print flight rosters, schedules, performance reports, history
 
 ## Administrative Functions
 * Add or drop flights
